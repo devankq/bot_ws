@@ -1,0 +1,6 @@
+source;share/try_bot/hook/cmake_prefix_path.dsv
+source;share/try_bot/hook/cmake_prefix_path.sh
+source;share/try_bot/local_setup.bash
+source;share/try_bot/local_setup.dsv
+source;share/try_bot/local_setup.sh
+source;share/try_bot/local_setup.zsh
